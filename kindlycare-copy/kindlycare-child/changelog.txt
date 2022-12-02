@@ -1,0 +1,76 @@
+Version 1.6.1
+    	Added:
+			- Compatibility with WP 5.0.3
+    		- Compatibility with PHP7.2
+    		- Instagram Widget by WPZOOM Plugin
+
+        Fixed:
+            - Pinterest API
+            - Update plugins to their latest versions
+            - Improve theme styles
+            - Scripts libraries updated
+
+        Changed:
+            - Remove Instagram Widget Plugin
+    		- Update demo data
+
+Version 1.6
+    	Added:
+    		- WP GDPR Compliance plugin
+            - Contact Form 7
+            - Alert to Demo data installation
+            - Privacy Policy page
+
+        Fixed:
+            - Compatibility with Gutenberg and other PageBuilders
+            - Update plugins to their latest versions
+            - Improve theme styles
+
+        Changed:
+            - Update default contact forms to make them GDPR-compliant
+            - Move Importer to ThemeREX Utils plugin
+    		- Update demo data
+
+Version 1.5
+    Compatibility with PHP7
+    Updated Revolution Slider to its latest version
+    Updated WPBakery PageBuilder to its latest version
+    Fixed Slider in shortcodes
+    Fixed shortcode WPBakery PageBuilder in PHP7
+    Fixed WooCommerce 3.2.3
+    Updated Demo data
+    Added new CSS styles
+
+Version 1.4.Dev.02
+    Compatibility with PHP7
+        \themes\kindlycare\fw\core\core.wp.php
+        \themes\kindlycare\shortcodes\trx_basic\section.php
+        \themes\kindlycare\fw\core\core.reviews.php
+        \themes\kindlycare\fw\core\core.lists.php
+        \themes\kindlycare\fw\core\core.shortcodes\shortcodes_vc_classes.php
+        \themes\kindlycare\fw\js\core.init.js
+    Fixed hide menu in landing page
+        \themes\kindlycare\fw\js\core.init.js
+
+Version 1.4
+	Plugins update
+	Dummy data import fixed
+
+Version 1.3
+	Update theme and plugins
+
+Version 1.2.2
+	Theme and documentation update
+
+Version 1.2.1
+	Fix mobile menu
+
+Version 1.2
+	Fix Demo data installation
+
+Version 1.1
+	Demo data installation improved
+	Added support for Google API Key
+
+Version 1.0
+	Release KindlyCare
